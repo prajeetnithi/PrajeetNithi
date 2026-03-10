@@ -2,7 +2,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=👋%20Hey%20I'm%20Prajeet%20Nithi!&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
 
 <p align="center">
-  🌞 <b>Innovator | IoT & AI Enthusiast | Tech Explorer</b> 🌙
+  🌞 <b>Innovator | AI Enthusiast | Tech Explorer</b> 🌙
 </p>
 
 ---
@@ -17,7 +17,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,html,css,js,arduino,raspberrypi,tensorflow,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,tensorflow,git,vscode" />
 </p>
 
 ---
@@ -26,9 +26,7 @@
 
 | 🔥 Project | 💡 Description |
 |-------------|----------------|
-| [🌲 Forest Fire Prediction System](#) | AI + IoT system predicting fire risk using environmental sensors |
-| [🌦️ Smart Weather Monitor](#) | NodeMCU + DHT11 + Rain Sensor + BMP180 with live web dashboard |
-| [🧠 AI Study Assistant](#) | Local Mistral-powered summarization & Q/A tool built with Streamlit |
+| [🧠 AI Hackathon Judge](#) | Local Mistral-powered evaluation & Analysis tool built with Streamlit |
 
 ---
 
