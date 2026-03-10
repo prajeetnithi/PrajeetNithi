@@ -8,8 +8,7 @@
 ---
 
 ### 🧠 About Me
-
-- 🔭 Working on **AI Powered Digital Twin** 🌲🔥  
+  
 - 💡 Exploring **AI, Machine Learning, and Cloud Computing**  
 - ⚡ Fun fact: I love turning everyday problems into smart solutions!
 
