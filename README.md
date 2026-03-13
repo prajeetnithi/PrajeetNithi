@@ -26,7 +26,8 @@
 
 | 🔥 Project | 💡 Description |
 |-------------|----------------|
-| [🧠 AI Hackathon Judge](#) | Local Mistral-powered evaluation & Analysis tool built with Streamlit |
+| [AI Hackathon Judge](#) | Local Mistral-powered evaluation & Analysis tool built with Streamlit |
+| [AI Study Assistant](#) | A Next.js AI dashboard integrated with Google Classroom that summarizes course materials, chats with students, and generates quizzes |
 
 ---
 
