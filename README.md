@@ -9,15 +9,15 @@
 
 ### 🧠 About Me
   
-- 💡 Exploring **AI, Machine Learning, and Cloud Computing**  
-- ⚡ Fun fact: I love turning everyday problems into smart solutions!
+- 💡 Exploring **AI, Machine Learning, and LLM**  
+
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,tensorflow,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,git,vscode" />
 </p>
 
 ---
@@ -27,7 +27,8 @@
 | 🔥 Project | 💡 Description |
 |-------------|----------------|
 | [AI Hackathon Judge](#) | Local Mistral-powered evaluation & Analysis tool built with Streamlit |
-
+| [AI Study Assistant](#) | AI Study Assistant is a full‑stack Next.js app that integrates Google Classroom with Google Gemini to generate summaries, quizzes, and answers for students |
+| [Multimodal Medical Image Intelligence](#) | An AI-assisted decision-support prototype that analyzes medical images and patient context to deliver findings, confidence scores, explanations, and highlighted review regions |
 ---
 
 ### 📊 GitHub Stats
